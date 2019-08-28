@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_app01aug28_integrations" name="sn_dd_app01aug28_integrations">cee0b86ddbaf3300f28af78eaf9619ec</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 09:51:38</sys_created_on>
+        <sys_id>c2e0b86ddbaf3300f28af78eaf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cee0b86ddbaf3300f28af78eaf9619ec</sys_name>
+        <sys_package display_value="App01Aug28" source="x_snc_app01aug28">71fe2ca9dbaf3300f28af78eaf9619f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App01Aug28">71fe2ca9dbaf3300f28af78eaf9619f6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c2e0b86ddbaf3300f28af78eaf9619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 09:51:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
